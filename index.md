@@ -16,4 +16,3 @@ I am a double major in both computer science and computer engineer and I plan on
 ### ** * Lab 11, Part 1 **
 
     Lab 11 part 1 is one of my favorite labs because it was a code that combined everything we have learned and some more by giving out the densest state and sparest state in the United States. What I had learned about how to use classes with both public and private variables. It allowed me to understand how to use classes in the future.
-
